@@ -4,7 +4,7 @@ Index Repository of my projects at 42
 <img src="https://avatars.githubusercontent.com/u/154385090?v=4" alt="https://github.com/zomioz/School_42"> </img>
 
 ## 🟣 Rank 0
-- [x] <a href="https://github.com/zomioz/Libft_42">libft</a> : ✅ 125%
+- [x] <a href="https://github.com/zomioz/Libft_42">libft</a> : ✅ <img src="https://via.placeholder.com/50x20/00FF00/FFFFFF?text=125%25" alt="125%" />
 ## 🔵 Rank 1
 - [x] <a href="https://github.com/zomioz/get_next_line_42">get_next_line</a> : ✅ 125% 
 - [x] <a href="https://github.com/zomioz/ft_printf_42">ft_printf</a> : ✅ 100% 
