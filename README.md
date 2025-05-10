@@ -1,7 +1,7 @@
 # 42-Cursus
 Index Repository of my projects at 42
 
-<img src="https://avatars.githubusercontent.com/u/154385090?v=4" alt="https://github.com/zomioz/School_42"> </img>
+<img src="https://avatars.githubusercontent.com/u/154385090?v=4" alt="https://github.com/zomioz/School_42" width="100" height="100">
 
 ## 🟣 Rank 0
 - ✅ <a href="https://github.com/zomioz/Libft_42">libft</a> : ✅ 125%
