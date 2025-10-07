@@ -29,5 +29,5 @@ Index Repository of my projects at 42
 - ✅ <a href="https://github.com/zomioz/Inception_42">Inception</a> : ✅ 100%
 - ✅ Exam Rank 05 : |  ✅ 100% |
 ## 🟤 Rank 6
-- ✅ <a href="https://github.com/zomioz/ft_transcendence_42">Inception</a> : ✅ 125%
+- ✅ <a href="https://github.com/zomioz/ft_transcendence_42">ft_transcendence</a> : ✅ 125%
 - ✅ Exam Rank 06 : |  ✅ 100% |
